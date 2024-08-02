@@ -1,0 +1,1 @@
+A simple project that allows you to transfer time from an NTP server to a DS3231 real-time module using ESP family cards (ESP8266/ESP32).
